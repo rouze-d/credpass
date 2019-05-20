@@ -13,11 +13,11 @@ another password maker<br>
 
 usage: bash credpass1/2.sh
 
-------<br>
+-----<br>
 facebook-user.com.xml<br>
 Credmap facebook bruteforce just work for email login.<br>
 facebook-user.com.xml is for username login.<br>
 move facebook-user.com.xml to /credmap/websites/ folder.<br>
------<br>
 
 usage: python credmap.py --load username.txt --only facebook-user.com -v
+-----<br>
