@@ -5,19 +5,19 @@ Credmap is simple password maker with information target for bruteforce WEAK pas
 need:
 sudo gem install lolcat
 
-credpass1.sh
-password maker for Credmap tool (https://github.com/lightos/credmap)
+credpass1.sh<br>
+password maker for Credmap tool (https://github.com/lightos/credmap)<br>
 
-credpass2.sh
-another password maker
+credpass2.sh<br>
+another password maker<br>
 
-usage:
-bash credpass1/2.sh
+usage: bash credpass1/2.sh
 
-facebook-user.com.xml
-Credmap facebook bruteforce just work for email login.
-facebook-user.com.xml is for username login.
-move facebook-user.com.xml to /credmap/websites/ folder.
+------<br>
+facebook-user.com.xml<br>
+Credmap facebook bruteforce just work for email login.<br>
+facebook-user.com.xml is for username login.<br>
+move facebook-user.com.xml to /credmap/websites/ folder.<br>
+-----<br>
 
-usage:
-python credmap.py --load username.txt --only facebook-user.com -v
+usage: python credmap.py --load username.txt --only facebook-user.com -v
