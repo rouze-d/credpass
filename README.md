@@ -21,5 +21,7 @@ facebook-user.com.xml is for username login.<br>
 move facebook-user.com.xml to /credmap/websites/ folder.<br>
 
 usage:<br>
+```
 python credmap.py --load username.txt --only facebook-user.com -v<br>
+```
 -----<br>
