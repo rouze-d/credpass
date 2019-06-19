@@ -1,12 +1,16 @@
-CREDMAP : SIMPLE PASSWORD MAKER
+CREDPASS : SIMPLE PASSWORD MAKER
 
 Credmap is simple password maker with target information for bruteforce WEAK password on SocialMedia login.
 
 need:<br>
+```
 sudo gem install lolcat
+```
 
 usage:<br>
+```
 bash credpass1/2.sh
+```
 
 -----<br>
 facebook-user.com.xml<br>
@@ -28,5 +32,3 @@ python credmap.py --load username.txt --only facebook-user.com -v
 credpass2.sh<br>
 another password maker<br>
 <img src="https://github.com/rouze-d/credpass/blob/master/screen02.png" width="800" height="450"/>
-
-
