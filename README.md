@@ -13,12 +13,12 @@ bash credpass1/2.sh
 ```
 
 <br>credpass
-```
+<pre>
 facebook-user.com.xml<br>
 Credmap facebook bruteforce just work for email login.
 facebook-user.com.xml is for username login.
 move facebook-user.com.xml to /credmap/websites/ folder.
-```
+</pre>
 
 ## Demo
 [![asciicast](https://asciinema.org/a/254240.svg)](https://asciinema.org/a/254240)
