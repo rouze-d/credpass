@@ -20,5 +20,5 @@ facebook-user.com.xml is for username login.
 move facebook-user.com.xml to /credmap/websites/ folder.
 ```
 
-## DEMO
+## Demo
 [![asciicast](https://asciinema.org/a/254240.svg)](https://asciinema.org/a/254240)
