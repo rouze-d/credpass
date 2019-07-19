@@ -8,12 +8,12 @@ sudo gem install lolcat
 ```
 
 ## usage on CREDMAP
+Password maker for Credmap tool (https://github.com/lightos/credmap)
 ```
 bash credpass1.sh
 ```
-password maker for Credmap tool (https://github.com/lightos/credmap)<br>
+facebook-user.com.xml
 <pre>
-facebook-user.com.xml<br>
 Credmap facebook bruteforce just work for email login.
 facebook-user.com.xml is for username login.
 move facebook-user.com.xml to /credmap/websites/ folder.
