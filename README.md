@@ -7,12 +7,13 @@ need:<br>
 sudo gem install lolcat
 ```
 
-usage:<br>
-```
-bash credpass1/2.sh
-```
 
-<br>credpass
+
+usage on CREDMAP<br>
+```
+bash credpass1.sh
+```
+password maker for Credmap tool (https://github.com/lightos/credmap)<br>
 <pre>
 facebook-user.com.xml<br>
 Credmap facebook bruteforce just work for email login.
