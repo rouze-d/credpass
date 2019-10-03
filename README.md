@@ -1,6 +1,6 @@
 CREDPASS : SIMPLE PASSWORD MAKER
 
-Credmap is simple password maker with target information for bruteforce WEAK password on SocialMedia login.
+Credpass is simple password maker with target information for bruteforce WEAK password on SocialMedia login.
 
 need:
 ```
@@ -8,7 +8,7 @@ sudo gem install lolcat
 ```
 
 ## usage on CREDMAP
-Password maker for Credmap tool (https://github.com/lightos/credmap)
+Password maker for Credpass tool (https://github.com/lightos/credmap)
 ```
 bash credpass1.sh
 ```
