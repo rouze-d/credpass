@@ -8,7 +8,7 @@ sudo gem install lolcat
 ```
 
 ## usage on CREDMAP
-Password maker for Credpass tool (https://github.com/lightos/credmap)
+Password maker for Credmap tool (https://github.com/lightos/credmap)
 ```
 bash credpass1.sh
 ```
